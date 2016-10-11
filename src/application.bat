@@ -1,4 +1,6 @@
 ### application.bat - 2016 - Aurianne Vigier ###
-echo "Copyright company - 2016"
-echo "Build : 10:00"
-echo "version 1.1"
+version = "2"
+build_hour = "16H02"
+
+echo "Build${build_hour}"
+echo "version${version}"
