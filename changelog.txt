@@ -1,3 +1,0 @@
-d43ce85 Display copyright
-7702d32 Add file header
-bc19b0c Initial commit
